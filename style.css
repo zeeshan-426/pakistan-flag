@@ -1,0 +1,51 @@
+h1{
+    color: #06b20c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 60%;
+    text-align: center;
+    position: relative;
+    left: 20%;
+}
+.intro{
+    background-color: #06b20c;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 40%;   
+    color: white;
+    position: relative;
+    left: 30%;
+    border-radius: 2%;
+}
+hr{
+    height: 4px;
+    background-color: #06b20c;
+}
+.flag{
+    background-color: #06b20c;
+    width: 600px;
+    height: 300px;
+    border: 1px solid rgb(73, 199, 11);
+
+
+}
+.white{
+    background-color: rgb(250, 250, 250);
+    width: 150px;
+    height: 300px;
+    position: relative;
+    bottom: 270.5px;
+}
+/* img{
+    position: relative;
+    left: 300px;
+    top: 110px;
+    display: inline-block;
+} */
+.moon{
+    width: 200px;
+    position: relative;
+    left: 240px;
+    top: 20px;
+}
+
+
